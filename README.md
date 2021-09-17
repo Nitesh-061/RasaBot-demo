@@ -9,7 +9,9 @@ Step2: <- Create a separate environment ->
         
         conda create -n myRasaEnv python==3.6.9
 
-Step3:  conda activate myRasaEnv
+Step3:  
+
+        conda activate myRasaEnv
 
 Step4:  
         
